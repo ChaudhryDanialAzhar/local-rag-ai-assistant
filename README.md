@@ -5,7 +5,7 @@ A simple, offline desktop app that lets you **ask questions about your own docum
 Upload PDFs, text files, or CSVs. Ask stuff like:  
 > _“What’s in my notes about Llama 3.2?”_
 
-It’ll read your files, find the most relevant parts, and give you a clear answer — all running on your machine.
+It’ll read your files, find the most relevant parts, and give you a clear answer — all running on your system.
 
 ---
 
