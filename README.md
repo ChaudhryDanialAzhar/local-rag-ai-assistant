@@ -11,7 +11,7 @@ It’ll read your files, find the most relevant parts, and give you a clear answ
 
 ## Why I built this
 
-As I dive deeper into AI, I’ve been exploring tools like Ollama, RAG, and local AI agents. Instead of just reading about them, I wanted to build something so I created my own personal AI assistant that runs entirely on my machine, with full control over the data and logic.
+As I dive deeper into AI, I’ve been exploring tools like Ollama, RAG, and local AI agents. Instead of just reading about them, I wanted to build something so I created my own personal AI assistant that runs entirely on my system, with full control over the data and logic.
 
 ---
 
